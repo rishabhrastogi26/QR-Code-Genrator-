@@ -1,1 +1,6 @@
 # QR-Code-Genrator-
+#Just Install
+npm i inquirer 
+npm i qr-image
+
+#when you run the code[node index.js], what ever URL is typed, a QR-code will  be genrated for it .
